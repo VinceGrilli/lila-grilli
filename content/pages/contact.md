@@ -15,13 +15,4 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+For enquiries about available work, please fill in the contact form to the right, or send an email to lila.seveda@gmail.com using the link below
