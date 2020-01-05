@@ -1,7 +1,7 @@
 ---
 template: GalleryPage
 slug: gallery
-title: Gallery Page
+title: Gallery
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 gallery:
   - alt: yellow rope image
@@ -17,3 +17,4 @@ meta:
   description: This is a meta description.
   title: Gallery Page
 ---
+
