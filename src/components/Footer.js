@@ -5,7 +5,8 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow me <a href="https://instagram.com/lila_seveda/">@Lila_Seveda</a>
+      Follow me on Instagram{' '}
+      <a href="https://instagram.com/lila_seveda/">@Lila_Seveda</a>
     </h2>
     <br />
     <InstagramFeed count="8" />
